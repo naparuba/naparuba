@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Gabès Jean</h1>
 <h3 align="center">Tech lead Backend 🐍, with a strong Ops background, former CTO @Shinken_monit</h3>
 
+(work in progress)
+
 <p align="left"> <a href="https://twitter.com/naparuba" target="blank"><img src="https://img.shields.io/twitter/follow/naparuba?logo=twitter&style=for-the-badge" alt="naparuba" /></a> </p>
 
 - 🐍 I did create the [Shinken monitoring tool](https://github.com/shinken-solutions/shinken)
