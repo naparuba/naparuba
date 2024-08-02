@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 🤝 I’m looking for help with [Mangle](https://github.com/naparuba/mangle)
+- 🤝 I’m looking for help with [Henskan](https://github.com/naparuba/henskan)
 
 - 👨‍💻 All of my projects are available at [https://jean.gabes.fr/parcours.html#projects](https://jean.gabes.fr/parcours.html#projects)
 
